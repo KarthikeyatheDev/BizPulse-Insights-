@@ -39,10 +39,5 @@ In a world drowning in data, BizPulse cuts through the noise. It helps businesse
 
 ## Learn More & Connect:
 
-🚀 Check out the project on GitHub: [https://github.com/KarthikeyatheDev/BizPulse-Insights](https://github.com/KarthikeyatheDev/BizPulse-Insights)
-👍 Like this video if you found BizPulse insightful!
-💬 Leave a comment below with your thoughts or questions.
-
----
-
-#BizPulse #BusinessIntelligence #AIDashboard #RealtimeData #SalesAnalytics #ReactJS #Flask #MongoDB #SocketIO #DataVisualization #AI #MachineLearning #Startup #Innovation #TechDemo #Hackathon [Add any specific hackathon name if applicable, e.g., #GoogleCloudHackathon]
+*🚀 Check out the project on GitHub:https://github.com/KarthikeyatheDev/BizPulse-Insights
+*👍 Check out the demo video on youtube - https://youtu.be/9kU1foNmCKk
