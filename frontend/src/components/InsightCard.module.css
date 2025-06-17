@@ -1,0 +1,19 @@
+/* frontend/src/components/InsightCard.module.css */
+
+.insightCard {
+  background-color: #e6f7ff; /* Light blue background for insights */
+  border: 1px solid #91d5ff; /* Blue border */
+  border-left: 5px solid #1890ff; /* Prominent primary blue left border */
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 15px; /* Spacing from elements above it */
+  margin-bottom: 15px; /* Added margin-bottom for better spacing */
+  font-size: 1.05rem;
+  color: #333;
+  line-height: 1.6;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08); /* Subtle shadow */
+}
+
+.insightCard p {
+  margin: 0;
+}

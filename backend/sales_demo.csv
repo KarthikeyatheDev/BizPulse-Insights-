@@ -1,0 +1,9 @@
+date,region,product,sales,inventory
+2024-01-15,North,WidgetA,120,30
+2024-02-10,South,WidgetB,80,15
+2024-03-05,North,WidgetC,200,10
+2024-04-12,East,WidgetA,150,25
+2024-05-20,West,WidgetB,90,8
+2024-06-01,South,WidgetC,60,5
+2024-06-10,North,WidgetA,210,12
+2024-06-15,East,WidgetB,130,7
