@@ -3,3 +3,9 @@ build/
 dist/
 .env
 .DS_Store
+# Google Cloud Service Account Key
+backend/vertex-key.json
+
+# Other common secret files
+*.env
+.env
