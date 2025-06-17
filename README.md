@@ -39,5 +39,6 @@ In a world drowning in data, BizPulse cuts through the noise. It helps businesse
 
 ## Learn More & Connect:
 
-*🚀 Check out the project on GitHub:https://github.com/KarthikeyatheDev/BizPulse-Insights
-*👍 Check out the demo video on youtube - https://youtu.be/9kU1foNmCKk
+🚀 Check out the project on GitHub:https://github.com/KarthikeyatheDev/BizPulse-Insights\
+
+👍 Check out the demo video on youtube - https://youtu.be/9kU1foNmCKk
